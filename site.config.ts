@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Anjhon's Blog',
+  name: "Anjhon's Blog",
   domain: 'https://blog.anjhon.top',
   author: 'Anjhon',
 
